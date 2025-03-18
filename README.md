@@ -10,7 +10,7 @@ Este proyecto es una aplicación web que permite realizar un sorteo de "Amigo Se
 
 ## Capturas de pantalla
 1. Pantalla inicial con el campo de texto para agregar nombres.  
-   ![Pantalla Inicial](./assets/pantalla-inicial.png)
+   ![Image](https://github.com/user-attachments/assets/734a4b00-28b7-4524-8cb7-5ded80e661a2)
 
 2. Lista de nombres agregados.  
    ![Lista de Nombres](./assets/lista-nombres.png)
