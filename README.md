@@ -16,4 +16,4 @@ Este proyecto es una aplicación web que permite realizar un sorteo de "Amigo Se
    ![Image](https://github.com/user-attachments/assets/26ebcb12-6cf2-462f-81df-a94fa8632592)
 
 3. Resultado del sorteo del amigo secreto.  
-   ![Resultado del Sorteo](./assets/resultado-sorteo.png)
+   ![Image](https://github.com/user-attachments/assets/ba821b4a-085b-4431-8567-ea0f8897d80c)
